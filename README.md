@@ -36,5 +36,6 @@ To run this project, you will need to download the following :
 ## Conclusion :
 Sucessfully built an employee salary prediction model that predicts the salary of an employee with an accuracy of 87%.
 
-![Screenshot (881)](https://user-images.githubusercontent.com/113137065/236448283-4b391447-0b5c-4358-91fe-583c75fa56c5.png)
 ![Screenshot (879)](https://user-images.githubusercontent.com/113137065/236448291-81e75870-113e-4260-878e-2dd9e98fe3d7.png)
+![Screenshot (881)](https://user-images.githubusercontent.com/113137065/236448283-4b391447-0b5c-4358-91fe-583c75fa56c5.png)
+
